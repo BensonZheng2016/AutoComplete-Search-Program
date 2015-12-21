@@ -1,7 +1,7 @@
 # CPS305-Assignments
 "Data Structures and Algorithms" course assignments with certain data structure implementations in C.
 # Assignment-2-BinaryTree-Recursion
-"The assignment was to make a program in C which reads 2 lines from stdin. The first line read indicates how big the int array will be. The second line read is the int array itself (each entry seperated by a space). The program then looks at the array and follows all the possible paths governed by the following rule: 
+The assignment was to make a program in C which reads 2 lines from stdin. The first line read indicates how big the int array will be. The second line read is the int array itself (each entry seperated by a space). The program then looks at the array and follows all the possible paths governed by the following rule: 
 
        From position i, the next position in the path must be either i+x, 
        or i-x, where x is the non-negative integer stored in position i.
