@@ -25,3 +25,5 @@ Then if the user inputs "comp" into stdin, the output would be:
 Contains the main function. It creates an empty Trie, reads from a wordlist file, inserts each word into the Trie, and calls the function to AutoComplete the inputted string.
 #trie.c & trie.h
 The Trie ADT. Contains functions like Insert, SetNode, and TraverseAndPrint.
+#american-english-no-accents
+This is the wordlist/dictionary file.
