@@ -1,5 +1,5 @@
 # Assignment-2-BinaryTree-Recursion
-"The assignment was to make a program in C which reads 2 lines from stdin. The first line read indicates how big the int array will be. The second line read is the int array itself (each entry seperated by a space). The program then looks at the array and follows all the possible paths governed by the following rule: 
+The assignment was to make a program in C which reads 2 lines from stdin. The first line read indicates how big the int array will be. The second line read is the int array itself (each entry seperated by a space). The program then looks at the array and follows all the possible paths governed by the following rule: 
 
        From position i, the next position in the path must be either i+x, 
        or i-x, where x is the non-negative integer stored in position i.
@@ -26,8 +26,8 @@ Then the output would give the following paths:
        
 This is done by using a binary tree and recursion.
 #pathfinder.c
-"The file with the main function along with the recursive algorithm that finds all the possible paths in the array."
+The file with the main function along with the recursive algorithm that finds all the possible paths in the array.
 #path.c & path.h
-"The path ADT"
+The path ADT
 #vector.c & vector.h
-"The vector ADT"
+The vector ADT
